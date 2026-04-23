@@ -26,61 +26,11 @@
       "ioValues": [
         {
           "name": "Shape 1",
-          "ioValue": {
-            "geometry": "fuse-move-rotate-extrude-circle-46.99-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-393.7-0-90-0--228.6-0-0-move-rotate-fuse-extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-fuse-assemblyFuse-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-6-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-7-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-8-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-9-extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15-0--90-0--231-0-0",
-            "tags": [],
-            "bom": [
-              [],
-              [],
-              []
-            ],
-            "plane": {
-              "origin": [
-                0,
-                0,
-                0
-              ],
-              "xDir": [
-                1,
-                0,
-                0
-              ],
-              "normal": [
-                0,
-                0,
-                1
-              ]
-            },
-            "color": "#aad7f2",
-            "dimension": "3D"
-          }
+          "ioValue": null
         },
         {
           "name": "Shape 2",
-          "ioValue": {
-            "geometry": "cut-extrude-cut-circle-14.25-circle-9-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-889-move-83967834-{\"geometry\":\"rotate-move-extrude-circle-2.5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-100-0-0--50-0-90-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-{\"geometry\":\"extrude-cut-circle-14.25-circle-9-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-889\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-3-0-0--18",
-            "dimension": "3D",
-            "tags": [],
-            "plane": {
-              "origin": [
-                0,
-                0,
-                0
-              ],
-              "xDir": [
-                1,
-                0,
-                0
-              ],
-              "normal": [
-                0,
-                0,
-                1
-              ]
-            },
-            "color": "#aad7f2",
-            "bom": []
-          }
+          "ioValue": null
         }
       ],
       "unionType": "Fusion"
@@ -296,82 +246,11 @@
           "ioValues": [
             {
               "name": "Shape 2",
-              "ioValue": {
-                "geometry": [
-                  {
-                    "geometry": "7ed87374-20-{\"geometry\":\"extrude-rectangle-200-80-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-80\",\"dimension\":\"3D\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-1",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  }
-                ],
-                "tags": [],
-                "color": "#aad7f2",
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "bom": [],
-                "dimension": "3D"
-              }
+              "ioValue": null
             },
             {
               "name": "Shape 3",
-              "ioValue": {
-                "geometry": "move-rotate-extrude-circle-19.049999999999997-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-381-0-90-0-0-0-37.5",
-                "dimension": "3D",
-                "tags": [],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "bom": []
-              }
+              "ioValue": null
             }
           ],
           "unionType": "Fusion"
@@ -488,6 +367,10 @@
                 {
                   "name": "radius",
                   "ioValue": 20
+                },
+                {
+                  "name": "inputShape",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -502,6 +385,10 @@
                 {
                   "name": "radius",
                   "ioValue": 2
+                },
+                {
+                  "name": "inputShape",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -671,88 +558,15 @@
           "ioValues": [
             {
               "name": "Shape 1",
-              "ioValue": {
-                "geometry": "move-rotate-cut-extrude-shrinkWrap-fuse-cut-circle-150-fuse-move-rectangle-500-500-0-250-0-move-rectangle-500-500-250-0-0-move-circle-25-200--50-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-move-extrude-rectangle-50-200-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-50-100--150-0-90-0-0-0--19.049999999999997-0",
-                "dimension": "3D",
-                "tags": [],
-                "color": "#aad7f2",
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "bom": [
-                  []
-                ]
-              }
+              "ioValue": null
             },
             {
               "name": "Shape 2",
-              "ioValue": {
-                "geometry": "move-rotate-cut-extrude-shrinkWrap-fuse-cut-circle-150-fuse-move-rectangle-500-500-0-250-0-move-rectangle-500-500-250-0-0-move-circle-25-200--50-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-move-extrude-rectangle-50-200-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-50-100--150-0-90-0-0-0-19.049999999999997-0",
-                "dimension": "3D",
-                "tags": [],
-                "color": "#aad7f2",
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "bom": [
-                  []
-                ]
-              }
+              "ioValue": null
             },
             {
               "name": "Shape 3",
-              "ioValue": {
-                "geometry": "move-fuse-move-rotate-extrude-circle-20-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-90-0-0--54-0-move-rotate-extrude-circle-20-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-90-0-0-54-0-100-0--75",
-                "tags": [],
-                "bom": [],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "dimension": "3D"
-              }
+              "ioValue": null
             }
           ],
           "unionType": "Fusion"
@@ -941,57 +755,11 @@
           "ioValues": [
             {
               "name": "Shape 1",
-              "ioValue": {
-                "geometry": "move-rotate-extrude-circle-20-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-90-0-0--54-0",
-                "dimension": "3D",
-                "tags": [],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "bom": []
-              }
+              "ioValue": null
             },
             {
               "name": "Shape 2",
-              "ioValue": {
-                "geometry": "move-rotate-extrude-circle-20-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-90-0-0-54-0",
-                "dimension": "3D",
-                "tags": [],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "bom": []
-              }
+              "ioValue": null
             }
           ],
           "unionType": "Fusion"
@@ -1116,57 +884,11 @@
               "ioValues": [
                 {
                   "name": "Shape 1",
-                  "ioValue": {
-                    "geometry": "move-rectangle-500-500-250-0-0",
-                    "dimension": "2D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  }
+                  "ioValue": null
                 },
                 {
                   "name": "Shape 2",
-                  "ioValue": {
-                    "geometry": "move-rectangle-500-500-0-250-0",
-                    "dimension": "2D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  }
+                  "ioValue": null
                 }
               ],
               "unionType": "Fusion"
@@ -1268,57 +990,11 @@
                 },
                 {
                   "name": "Shape 1",
-                  "ioValue": {
-                    "geometry": "move-circle-25-200--50-0",
-                    "dimension": "2D",
-                    "tags": [],
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "bom": []
-                  }
+                  "ioValue": null
                 },
                 {
                   "name": "Shape 2",
-                  "ioValue": {
-                    "geometry": "cut-circle-150-fuse-move-rectangle-500-500-0-250-0-move-rectangle-500-500-250-0-0",
-                    "dimension": "2D",
-                    "tags": [],
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "bom": []
-                  }
+                  "ioValue": null
                 },
                 {
                   "name": "Shape 3",
@@ -2160,61 +1836,11 @@
           "ioValues": [
             {
               "name": "Shape 1",
-              "ioValue": {
-                "geometry": "move-rotate-fuse-extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-fuse-assemblyFuse-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-6-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-7-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-8-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-9-extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15-0--90-0--231-0-0",
-                "tags": [],
-                "bom": [
-                  [],
-                  [],
-                  []
-                ],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "dimension": "3D"
-              }
+              "ioValue": null
             },
             {
               "name": "Shape 2",
-              "ioValue": {
-                "geometry": "move-rotate-extrude-circle-46.99-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-393.7-0-90-0--228.6-0-0",
-                "dimension": "3D",
-                "tags": [],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "bom": []
-              }
+              "ioValue": null
             }
           ],
           "unionType": "Fusion"
@@ -2327,30 +1953,7 @@
                 },
                 {
                   "name": "Shape 1",
-                  "ioValue": {
-                    "geometry": "move-circle-19.049999999999997-127-0-0",
-                    "dimension": "2D",
-                    "tags": [],
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "bom": []
-                  }
+                  "ioValue": null
                 },
                 {
                   "name": "Shape 2",
@@ -2408,230 +2011,40 @@
               "uniqueID": "id-43786",
               "ioValues": [
                 {
-                  "name": "Shape 1",
-                  "ioValue": {
-                    "geometry": [
-                      {
-                        "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-6",
-                        "dimension": "3D",
-                        "tags": [],
-                        "color": "#aad7f2",
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            0
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "bom": [
-                          []
-                        ]
-                      },
-                      {
-                        "geometry": [
-                          {
-                            "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-7",
-                            "tags": [],
-                            "color": "#aad7f2",
-                            "bom": [
-                              []
-                            ],
-                            "plane": {
-                              "origin": [
-                                0,
-                                0,
-                                0
-                              ],
-                              "xDir": [
-                                1,
-                                0,
-                                0
-                              ],
-                              "normal": [
-                                0,
-                                0,
-                                1
-                              ]
-                            },
-                            "dimension": "3D"
-                          },
-                          {
-                            "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-8",
-                            "tags": [],
-                            "color": "#aad7f2",
-                            "bom": [
-                              []
-                            ],
-                            "plane": {
-                              "origin": [
-                                0,
-                                0,
-                                0
-                              ],
-                              "xDir": [
-                                1,
-                                0,
-                                0
-                              ],
-                              "normal": [
-                                0,
-                                0,
-                                1
-                              ]
-                            },
-                            "dimension": "3D"
-                          }
-                        ],
-                        "tags": [],
-                        "color": "#aad7f2",
-                        "bom": [
-                          []
-                        ],
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            0
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "dimension": "3D"
-                      },
-                      {
-                        "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-9",
-                        "dimension": "3D",
-                        "tags": [],
-                        "color": "#aad7f2",
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            0
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "bom": [
-                          []
-                        ]
-                      }
-                    ],
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "tags": [],
-                    "color": "#aad7f2",
-                    "bom": [
-                      [],
-                      [],
-                      []
-                    ],
-                    "dimension": "3D",
-                    "nonReplicadSerialized": []
-                  }
+                  "name": "Shape 4",
+                  "ioValue": null
                 },
                 {
-                  "name": "Shape 2",
-                  "ioValue": {
-                    "geometry": "extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15",
-                    "dimension": "3D",
-                    "tags": [],
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "bom": []
-                  }
+                  "name": "Shape 5",
+                  "ioValue": null
                 },
                 {
-                  "name": "Shape 3",
-                  "ioValue": {
-                    "geometry": "extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5",
-                    "dimension": "3D",
-                    "tags": [],
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "bom": []
-                  }
+                  "name": "Shape 6",
+                  "ioValue": null
                 }
               ],
               "unionType": "Fusion"
             },
             {
+              "atomType": "Extrude",
+              "x": 0.656084656084656,
+              "y": 0.8022284122562675,
+              "uniqueID": "id-45410",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "height",
+                  "ioValue": 5
+                }
+              ]
+            },
+            {
               "atomType": "GitHubMolecule",
-              "x": 0.7526455026455027,
-              "y": 0.7075208913649026,
+              "x": 0.7766927083333334,
+              "y": 0.7321428571428571,
               "uniqueID": "id-43761",
               "name": "RotatePattern",
               "ioValues": [
@@ -2729,6 +2142,10 @@
                     {
                       "name": "Angle",
                       "ioValue": 120
+                    },
+                    {
+                      "name": "Shape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -2817,13 +2234,11 @@
               "ioValues": [
                 {
                   "name": "OD",
-                  "ioValue": 300,
-                  "currentEquation": "300"
+                  "ioValue": 300
                 },
                 {
                   "name": "ID",
-                  "ioValue": 299,
-                  "currentEquation": "299"
+                  "ioValue": 299
                 }
               ],
               "topLevel": false,
@@ -2949,23 +2364,6 @@
               },
               "unitsKey": "Unitless",
               "fileTypeVersion": 1
-            },
-            {
-              "atomType": "Extrude",
-              "x": 0.656084656084656,
-              "y": 0.8022284122562675,
-              "uniqueID": "id-45410",
-              "ioValues": [
-                {
-                  "name": "geometry",
-                  "ioValue": "__GEOMETRY_INPUT__"
-                },
-                {
-                  "name": "height",
-                  "ioValue": 5,
-                  "currentEquation": "5"
-                }
-              ]
             }
           ],
           "allConnectors": [
@@ -2980,7 +2378,7 @@
               "ap2ID": "id-43735"
             },
             {
-              "ap2Name": "Shape 2",
+              "ap2Name": "Shape 6",
               "ap1ID": "id-43722",
               "ap2ID": "id-43786"
             },
@@ -3010,7 +2408,12 @@
               "ap2ID": "id-43717"
             },
             {
-              "ap2Name": "Shape 1",
+              "ap2Name": "Shape 5",
+              "ap1ID": "id-45410",
+              "ap2ID": "id-43786"
+            },
+            {
+              "ap2Name": "Shape 4",
               "ap1ID": "id-43761",
               "ap2ID": "id-43786"
             },
@@ -3018,11 +2421,6 @@
               "ap2Name": "geometry",
               "ap1ID": "id-45394",
               "ap2ID": "id-45410"
-            },
-            {
-              "ap2Name": "Shape 3",
-              "ap1ID": "id-45410",
-              "ap2ID": "id-43786"
             }
           ],
           "fileTypeVersion": 1
